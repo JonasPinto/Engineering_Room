@@ -3,9 +3,11 @@
 
  ## Operational Stack 
 
+ ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
+ ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+ 
  ##
 
 ## Lab Projects
@@ -13,7 +15,7 @@
 | Project | Description | Directory | Status |
 | :--- | :--- | :--- | :--- |
 | [**memory_inspection**](./memory/memory_inspection.py) | Computational efficiency simulator via memory analysis with Python. | `/memory/` | ✅ Completed |
-| [**other_project**](.) | coming soon | `/topic/` |  |
+| [**arena**](.) | coming soon | `/topic/` |  |
 | [**other_project**](.) | coming soon | `/topic/` |  |
 
 ## Theme Structure

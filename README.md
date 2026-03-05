@@ -24,18 +24,18 @@
 ``` gerenciamento de memória pré-alocado e subdividido internamente de forma linear
 /
 ├── cryptography/
-├── memory-management/
-├── data-structures/
-├── networks-and-protocols/
-├── efficiency-and-performance/
-├── operating-systems/
-├── security-engineering/
-├── automation-and-devops/
-├── artificial-intelligence/
-├── embedded-systems/
-├── quality-and-testing/
-├── distributed-systems/e
-└── cloud-architectures/ 
+├── memory_management/
+├── data_structures/
+├── networks_and_protocols/
+├── efficiency_and_performance/
+├── operating_systems/
+├── security_engineering/
+├── automation_and_devops/
+├── artificial_intelligence/
+├── embedded_systems/
+├── quality_and_testing/
+├── distributed_systems/e
+└── cloud_architectures/ 
 └── ... (and other computer science pillars)  
 ```
 

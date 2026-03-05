@@ -39,7 +39,7 @@ def get_translations(is_pt):
             "narrative": (
                 "Para máxima eficiência e menores custos, cada byte conta.\n"
                 "Este experimento permite mensurar a quantidade de memória alocada em cada tipo de dado,\n"
-                "impactando diretamente o desempenho do software como um todo."
+                "impactando diretamente o desempenho e custos do software como um todo."
             ),
             "continue": "\nPressione ENTER para verificar...",
             "input_prompt": (
@@ -69,7 +69,7 @@ def get_translations(is_pt):
         "narrative": (
             "For maximum efficiency and lower costs, every byte counts.\n"
             "This experiment allows measuring the amount of memory allocated in each data type,\n"
-            "directly impacting the software performance as a whole."
+            "directly impacting the performance and costs of the software as a whole."
         ),
         "continue": "\nPress ENTER to verify...",
         "input_prompt": (
